@@ -1,16 +1,16 @@
-Main projects:
-  - leadsheet-utility (CUI Bachelor Project)
-  - jazz-utilities
+## Projects
+- **leadsheet-utility** (Bachelor project, CUI/UNIGE)
+- **jazz-utilities**
 
-Coding problems, my solutions:
-  - algorithmic-thinking-exercices
-  - exercism
-  - usaco-bronze
+## Exercises
+- **algorithmic-thinking-exercises**
+- **exercism**
+- **usaco-bronze**
 
-Book studies and exercices:
-  - automate-the-boring-stuff
-  - eloquent-js
-  - excel-udemy
-  - learning-sparql-1.1 
-  - mysql-crashcourse
-  - word-udemy
+## Book work
+- **automate-the-boring-stuff**
+- **eloquent-js**
+- **learning-sparql-1.1**
+- **mysql-crashcourse**
+- **excel-udemy**
+- **word-udemy**
