@@ -6,6 +6,7 @@
 - **algorithmic-thinking-exercises**
 - **exercism**
 - **usaco-bronze**
+- **usaco-silver**
 
 ## Book work
 - **automate-the-boring-stuff**
